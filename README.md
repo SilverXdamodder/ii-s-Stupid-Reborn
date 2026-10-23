@@ -1,21 +1,3 @@
-"Thank you guys for 2 years, it's been a pleasure <3" - IIDK
-This is a LTS Version of iis Stupid Mod Menu the first LTS version was made by CubicCreeper and Nyph I just Rereleased it 
-
-
-<p align="center">
-  <a href="#"><img src="Resources/GitHub/icon.png"></a>
-  <a href="#"><img src="Resources/GitHub/title.png"></a>
-</p>
-
----
-
-<p align="center">
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases"><img src="https://img.shields.io/github/v/release/iiDk-the-actual/iis.Stupid.Menu?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest"><img src="https://img.shields.io/github/downloads/iiDk-the-actual/iis.Stupid.Menu/latest/iis_Stupid_Menu.dll?style=for-the-badge"></a>
-	<a href="https://discord.gg/iidk"><img src="https://img.shields.io/discord/1170093288557129748?label=discord&style=for-the-badge&color=blueviolet"></a>
-</p>
-
----
 
 # <img src="Resources/GitHub/cone-emoji.png" height=26px> ii's Stupid Menu  
 
